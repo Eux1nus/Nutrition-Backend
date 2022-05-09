@@ -19,7 +19,7 @@ using Repository.Repositories;
 using Services;
 using Services.Account;
 using Storage;
-//test
+
 namespace Nutrition
 {
     public class Startup

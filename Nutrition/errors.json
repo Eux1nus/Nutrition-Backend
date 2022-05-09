@@ -1,0 +1,118 @@
+﻿[
+  {
+    "code": -1,
+    "en": "",
+    "ru": ""
+  },
+  {
+    "code": 1,
+    "en": "Request cannot be null.",
+    "ru": "Запрос не может быть пустым."
+  },
+  {
+    "code": 2,
+    "en": "Required Property Not Found.",
+    "ru": "Не достает обязательного параметра."
+  },
+  {
+    "code": 100,
+    "en": "User has been created.",
+    "ru": "Пользователь уже существует."
+  },
+  {
+    "code": 101,
+    "en": "Phone number already used.",
+    "ru": "Телефонный номер уже используется."
+
+  },
+  {
+    "code": 102,
+    "en": "Password lenght must be longer than 6 symbols.",
+    "ru": "Пароль не может быть меньше 6 символов."
+  },
+  {
+    "code": 103,
+    "en": "City not found.",
+    "ru": "Город не найден."
+  },
+  {
+    "code": 104,
+    "en": "User is not active.",
+    "ru": "Пользователь не активен."
+  },
+  {
+    "code": 105,
+    "en": "Peron not found.",
+    "ru": "Пользователь не найден."
+  },
+  {
+    "code": 106,
+    "en": "Phone not verified.",
+    "ru": "Телефон не подтвержден."
+  },
+  {
+    "code": 107,
+    "ru": "Проблема с отправкой кода",
+    "en": "Problem with sending code"
+  },
+  {
+    "code": 108,
+    "en": "Password lenght must be longer than 6 symbols.",
+    "ru": "Пароль не может быть меньше 6 символов."
+  },
+  {
+    "code": 109,
+    "en": "User Not Create.",
+    "ru": "Пользователь не создан."
+  },
+  {
+    "code": 110,
+    "en": "User has been created.",
+    "ru": "Пользователь уже существует."
+  },
+  {
+    "code": 111,
+    "en": "User is not active.",
+    "ru": "Пользователь не активен."
+  },
+  {
+    "code": 112,
+    "en": "Not rights.",
+    "ru": "Нет прав."
+  },
+  {
+    "code": 113,
+    "en": "Comment not found.",
+    "ru": "Комментарий не найден."
+  },
+  {
+    "code": 114,
+    "en": "Incorrect password.",
+    "ru": "Неверный пароль."
+  },
+  {
+    "code": 115,
+    "en": "Password mismatch.",
+    "ru": "Пароли не совпадают."
+  },
+  {
+    "code": 116,
+    "en": "Service not found.",
+    "ru": "Услуга не найдена."
+  },
+  {
+    "code": 117,
+    "en": "The specified service was not purchased by the user.",
+    "ru": "Указанная услуга не куплена пользователем."
+  },
+  {
+    "code": 118,
+    "en": "No services purchased.",
+    "ru": "Нет приобретенных услуг."
+  },
+  {
+    "code": 999,
+    "en": "No services purchased.",
+    "ru": "Пользователь не найдет"
+  }
+] 

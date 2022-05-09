@@ -1,0 +1,6 @@
+{
+  "SMTP_SERVER": "smtp.yandex.ru",
+  "SMTP_PORT": 25,
+  "SMTP_LOGIN": "swaggerui.ru@yandex.ru",
+  "SMTP_PASSWORD": "SwaggerCh3mp-001"
+}

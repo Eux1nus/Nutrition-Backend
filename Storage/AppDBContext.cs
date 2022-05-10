@@ -37,7 +37,7 @@ namespace Storage
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Nutrition;Username=postgres;Password=Ivan230691");
+            optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=Nutrition;Username=postgres;Password=qwerty");
         }
     }
 }
